@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pramodyasahan/node-ts-api/issues"
   },
-  "homepage": "https://github.com/pramodyasahan/node-ts-api#readme"
+  "homepage": "https://github.com/pramodyasahan/node-ts-api#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
 }
